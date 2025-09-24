@@ -18,5 +18,4 @@ public class RedisConfig {
                 new PatternTopic("koo:apiFlow"));
         return c;
     }
-
 }
